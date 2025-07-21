@@ -90,8 +90,8 @@
 </tr>
 <tr>
 <td><strong>T</strong></td>
-<td><strong>Testing shows presence of defects</strong></td>
-<td>Testing shows bugs exist, not that they’re gone</td>
+<td><strong>Testing is context dependent</strong></td>
+<td>Testing varies based on project context</td>
 </tr>
 <tr>
 <td><strong>A</strong></td>
@@ -100,8 +100,8 @@
 </tr>
 <tr>
 <td><strong>P</strong></td>
-<td><strong>Testing is context dependent</strong></td>
-<td>Testing varies based on project context</td>
+<td><strong>Testing shows presence of defects</strong></td>
+<td>Testing shows bugs exist, not that they’re gone</td>
 </tr>
 </tbody>
 </table><h2 id="software-testing--sdlc-vs-stlc">Software Testing : SDLC vs STLC</h2>
