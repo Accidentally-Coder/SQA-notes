@@ -56,7 +56,54 @@
 <ul>
 <li>A <strong>bug-free</strong> system is <strong>useless</strong> if it <strong>doesn’t</strong> meet <strong>user needs</strong>.</li>
 </ul>
-<h2 id="software-testing--sdlc-vs-stlc">Software Testing : SDLC vs STLC</h2>
+<h4 id="summary">Summary</h4>
+
+<table>
+<thead>
+<tr>
+<th>Letter</th>
+<th>Principle</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>D</strong></td>
+<td><strong>Defect clustering</strong></td>
+<td>Most bugs are found in few modules</td>
+</tr>
+<tr>
+<td><strong>E</strong></td>
+<td><strong>Exhaustive testing is impossible</strong></td>
+<td>You can’t test everything</td>
+</tr>
+<tr>
+<td><strong>E</strong></td>
+<td><strong>Early testing</strong></td>
+<td>Start testing early to catch bugs sooner</td>
+</tr>
+<tr>
+<td><strong>P</strong></td>
+<td><strong>Pesticide paradox</strong></td>
+<td>Repeating the same tests won’t reveal new bugs</td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td><strong>Testing shows presence of defects</strong></td>
+<td>Testing shows bugs exist, not that they’re gone</td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td><strong>Absence-of-errors fallacy</strong></td>
+<td>A bug-free system isn’t useful if it fails business needs</td>
+</tr>
+<tr>
+<td><strong>P</strong></td>
+<td><strong>Testing is context dependent</strong></td>
+<td>Testing varies based on project context</td>
+</tr>
+</tbody>
+</table><h2 id="software-testing--sdlc-vs-stlc">Software Testing : SDLC vs STLC</h2>
 <h3 id="waterfall-model">Waterfall Model</h3>
 <ul>
 <li><strong>Linear</strong> and <strong>sequential</strong> software development approach where <strong>each phase</strong> must be <strong>completed</strong>  <strong>before</strong> moving to the <strong>next</strong> phase. \</li>
